@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string> // another library used for character strings
+using namespace std;
 
 int main(){
 	cout << "Enter your first name: ";
